@@ -1,0 +1,86 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.textContainer {
+  width: 405px;
+  height: 305px;
+  border-radius: 2px;
+  padding: 0px 20px;
+  background-color: #424242;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+  margin: 15px 0px;
+  margin-right: 0px;
+  display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: baseline;
+	align-content: stretch;
+}
+
+.person-text {
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: baseline;
+	align-content: stretch;
+  /* margin:auto; */
+  /* height: 50%; */
+  /* width:  75%;  */
+  /* background-color: orange; */
+/* } */
+
+/* .movies {
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: baseline;
+	align-content: stretch;
+  height: 50%;
+  width:  75%; */
+  /* background-color: green */
+/* } */
+
+/* h6 {
+  height: 13%;
+  margin: 3%;
+  border-bottom: 1.5px solid white;
+} */
+
+/* h5 {
+  margin: 3%;
+} */
+
+/* Text */
+/* .list-text {
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	align-content: stretch;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #ffffff;
+  margin-top: 15px;
+} */
+
+/* .list-name {
+  list-style-type: none;
+} */
+ 
